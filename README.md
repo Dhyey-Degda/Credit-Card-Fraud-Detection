@@ -1,2 +1,2 @@
 ﻿# Credit-Card-Fraud-Detection
-Conducted an analysis on credit card frauds using python and it's libraries such as Seaborn, SciPy, Sklearn, NumPy, Matplotlib and Pandas. 
+Conducted an analysis on credit card frauds using python and it's libraries.Seaborn is used for making statistical graphics, SciPy to provide more utility functions for optimization, stats and signal processing. Sklearn features various algorithms like support vector machine, random forests, and k – neighbors. NumPy provides fast mathematical computation on arrays and matrices. Used Matplotlib for visualization for 2D plots of arrays and Pandas for data manipulation and analysis.
